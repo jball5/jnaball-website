@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ODu8kL/IISMMQAyn6HHUZ2E7HZYC+Bk246Sa0vAEij1KRZidzG3VSdRmzuDNkh6YemRF148rnl262Jo6SwE8Pw==",
+  "dgSpecHash": "8qA1NvKPuS+3I5thjXMJP5ZfveqrkgR4VtCf9WVUvSPdkTy97YYJCvCSHq3o1+RM8aHbEDiRzhAILegNvaLBPA==",
   "success": true,
-  "projectFilePath": "/Users/jball/jnaball-website/jnaball-website.csproj",
+  "projectFilePath": "/Users/jball/dev-projects/dotnet/jnaball-website/jnaball-website.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

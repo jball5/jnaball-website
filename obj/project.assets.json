@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jball/jnaball-website/jnaball-website.csproj",
+      "projectUniqueName": "/Users/jball/dev-projects/dotnet/jnaball-website/jnaball-website.csproj",
       "projectName": "jnaball-website",
-      "projectPath": "/Users/jball/jnaball-website/jnaball-website.csproj",
+      "projectPath": "/Users/jball/dev-projects/dotnet/jnaball-website/jnaball-website.csproj",
       "packagesPath": "/Users/jball/.nuget/packages/",
-      "outputPath": "/Users/jball/jnaball-website/obj/",
+      "outputPath": "/Users/jball/dev-projects/dotnet/jnaball-website/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jball/.nuget/NuGet/NuGet.Config"
